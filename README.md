@@ -15,6 +15,7 @@
 ---
 
 ## 🛠️ Languages and Tools:<div align="left">
+ <div align="left">
   <!-- Web Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
@@ -58,6 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
+
 
 
 ---
