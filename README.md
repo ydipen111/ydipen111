@@ -29,3 +29,30 @@
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)]()
 
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ydipen111&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&langs_count=4&card_width=350)
+
+### ydipen111's GitHub Stats 
+<table>
+  <tr>
+    <td>Total Stars Earned:</td>
+    <td><img alt="GitHub stars" src="https://img.shields.io/github/stars/ydipen111?style=flat&color=blue"/></td>
+  </tr>
+  <tr>
+    <td>Total Commits (2025):</td>
+    <td><img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/y/ydipen111/ydipen111?style=flat&color=blue"/></td>
+  </tr>
+  <tr>
+    <td>Total PRs:</td>
+    <td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ydipen111/ydipen111?style=flat&color=blue"/></td>
+  </tr>
+  <tr>
+    <td>Total Issues:</td>
+    <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/ydipen111/ydipen111?style=flat&color=blue"/></td>
+  </tr>
+  <tr>
+    <td>Contributed to (last year):</td>
+    <td><img alt="GitHub contributed to" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ydipen111/repos&query=$.length&style=flat&label=repositories&color=blue"/></td>
+  </tr>
+</table>
+
