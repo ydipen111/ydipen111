@@ -49,12 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+</div>## 📊 GitHub Analytics:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydipen111&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&langs_count=8&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ydipen111&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&icon_color=2F80ED" alt="GitHub Stats" />
 </div>
 
-## 📊 GitHub Analytics:
+![GitHub followers](https://img.shields.io/github/followers/ydipen111?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ydipen111?style=social)
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ydipen111&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&langs_count=8&card_width=450)
-
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ydipen111&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&icon_color=2F80ED)
