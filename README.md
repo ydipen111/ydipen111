@@ -2,7 +2,19 @@
 🎓 I'm a passionate web developer specializing in Node.js and mastering Next.js.
 🌍 Currently diving deep into advanced React techniques and TypeScript.
 
-## 🛠 Languages and Tools:
+##social media
+## Connect with Me:
+
+- 📱 [LinkedIn](https://www.linkedin.com/in/dipendra-yesmali-magar-50007b262)
+- 🐦 [X (Twitter)](https://x.com/MagaraYasmali)
+- 📘 [Facebook](https://www.facebook.com/dipendrayesmali.magar.1)
+- - 🌐 [My Portfolio](https://dipendramagar.vercel.app/)
+
+
+## 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](your-facebook-url)
+
 ## 🛠 Languages and Tools:
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()
@@ -18,3 +30,4 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)]()
+
