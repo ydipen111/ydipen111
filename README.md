@@ -2,13 +2,11 @@
 🎓 I'm a passionate web developer specializing in Node.js and mastering Next.js.
 🌍 Currently diving deep into advanced React techniques and TypeScript.
 
-##social media
 ## Connect with Me:
-
 - 📱 [LinkedIn](https://www.linkedin.com/in/dipendra-yesmali-magar-50007b262)
 - 🐦 [X (Twitter)](https://x.com/MagaraYasmali)
 - 📘 [Facebook](https://www.facebook.com/dipendrayesmali.magar.1)
-- - 🌐 [My Portfolio](https://dipendramagar.vercel.app/)
+- 🌐[My Portfolio](https://dipendramagar.vercel.app/)
 
 
 ## 🤝 Connect with me:
