@@ -29,30 +29,49 @@
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)]()
 
+### Languages and Tools:
+
+<div align="left">
+  <!-- Web Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img width="12" />
+  
+  <!-- Cloud & Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo.svg" height="40" alt="supabase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
+  <img width="12" />
+  
+  <!-- Version Control & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+</div>
+
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ydipen111&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&langs_count=4&card_width=350)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ydipen111&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&langs_count=8&card_width=450)
 
-### ydipen111's GitHub Stats 
-<table>
-  <tr>
-    <td>Total Stars Earned:</td>
-    <td><img alt="GitHub stars" src="https://img.shields.io/github/stars/ydipen111?style=flat&color=blue"/></td>
-  </tr>
-  <tr>
-    <td>Total Commits (2025):</td>
-    <td><img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/y/ydipen111/ydipen111?style=flat&color=blue"/></td>
-  </tr>
-  <tr>
-    <td>Total PRs:</td>
-    <td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ydipen111/ydipen111?style=flat&color=blue"/></td>
-  </tr>
-  <tr>
-    <td>Total Issues:</td>
-    <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/ydipen111/ydipen111?style=flat&color=blue"/></td>
-  </tr>
-  <tr>
-    <td>Contributed to (last year):</td>
-    <td><img alt="GitHub contributed to" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ydipen111/repos&query=$.length&style=flat&label=repositories&color=blue"/></td>
-  </tr>
-</table>
-
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ydipen111&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=000000&icon_color=2F80ED)
